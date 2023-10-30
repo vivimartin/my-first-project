@@ -1,0 +1,13 @@
+body{
+  background-color: yellow;
+}
+h1{
+  text-allign: center;
+}
+.head1{
+  background-color: aqua;
+}
+#head2{
+  background-color: red;
+  color: white
+}
