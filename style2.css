@@ -23,3 +23,6 @@ p + p {
     background-color: rgb(255, 247, 236);
     padding: 10px;
 }
+bold {
+    color: DarkBlue;
+    font-family: fantasy;
