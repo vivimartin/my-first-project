@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.nav{
+  background-color: rgb(253, 185, 185)
+  height: 20px;
+  text-allign: center;
+  margin-bottom: 10px;
+}
+
+.banner{
+  background-color: ForestGreen;
+  height: 200px
+}
+
+.content{
+  background-color: rgb(37, 27, 27);
+  height: 20px;
+  height: 100px;
+}
+
+img{
+  width: 100%
+  filter: grayscale(20%)
+}
